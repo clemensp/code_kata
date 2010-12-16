@@ -1,0 +1,12 @@
+This repository holds my solutions for Dave Thomas' Code Katas:
+http://codekata.pragprog.com/2007/01/code_kata_backg.html
+
+The layout of the repository is as such:
+root
+-- <kata #>
+---- <solution #>
+------ lib
+------ test
+
+Each test can be ran under the respective test directories, by running the following command:
+ruby testall.rb
